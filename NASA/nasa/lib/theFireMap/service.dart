@@ -3,7 +3,7 @@ import 'package:csv/csv.dart';
 import 'package:nasa/theFireMap/fireModel.dart';
  
 class Service {
-  static const String apiKey = "40a9607b54bf31d3bc29f9821ccf580d";
+  static const String apiKey = "put your Nasa key ";
   static Future<List<FireMarker>> fetchFireData(String Source) async {
     final url = Uri.parse(
       'https://firms.modaps.eosdis.nasa.gov/api/area/csv/$apiKey/$Source/24,22,37,32/5',

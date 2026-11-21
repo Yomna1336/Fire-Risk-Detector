@@ -1,0 +1,588 @@
+{
+   "checksum": "ed088d88aad579e039e5418b86be7042",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13436616743040126",
+            "date_last_used": "0",
+            "guid": "b7a7a8e0-f617-4ac5-b295-d6051cc8b236",
+            "id": "77",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436616743039877",
+            "date_last_used": "0",
+            "guid": "45fdc405-1ee1-450e-9092-2cc9ec861df2",
+            "id": "76",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436616743039296",
+            "date_last_used": "0",
+            "guid": "d3d9c72e-8894-45f6-b72f-3b45f738e16f",
+            "id": "75",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436615844435329",
+            "date_last_used": "0",
+            "guid": "1817b55c-f027-4604-9883-d3d312fd6ab1",
+            "id": "73",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436615844434902",
+            "date_last_used": "0",
+            "guid": "4a30e5da-3135-4a54-9c07-8a9890ca48f7",
+            "id": "72",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436615844432206",
+            "date_last_used": "0",
+            "guid": "0c2ae3f0-02cd-4a24-9e29-874dc2dcecfe",
+            "id": "71",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436377885879331",
+            "date_last_used": "0",
+            "guid": "1988275e-d0c3-49eb-84e7-8b44ebb6dce5",
+            "id": "69",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436377885879001",
+            "date_last_used": "0",
+            "guid": "4e709286-b393-4717-bcd3-bb06a1344b00",
+            "id": "68",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436377885877694",
+            "date_last_used": "0",
+            "guid": "01cf77bc-8505-47c9-b3b2-dc37ed77468a",
+            "id": "67",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436376529170439",
+            "date_last_used": "0",
+            "guid": "c8d91cca-7739-4436-a95e-af3239cd079c",
+            "id": "65",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436376529170165",
+            "date_last_used": "0",
+            "guid": "4448d106-b128-46ba-bae5-8092809aa91a",
+            "id": "64",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436376529169558",
+            "date_last_used": "0",
+            "guid": "200f44d7-a95f-49e4-8a45-76bde0180fa7",
+            "id": "63",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436375856492888",
+            "date_last_used": "0",
+            "guid": "bb88f65f-77a7-4940-a415-7e3641539672",
+            "id": "61",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436375856492543",
+            "date_last_used": "0",
+            "guid": "5561a853-bef1-45bd-8f20-3dc3a99d470f",
+            "id": "60",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436375856491826",
+            "date_last_used": "0",
+            "guid": "804fb2cd-b32d-4525-9528-e3f3bcb7c348",
+            "id": "59",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436357103451810",
+            "date_last_used": "0",
+            "guid": "92fae45e-ab93-4822-81b4-b74f902dfc5f",
+            "id": "57",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436357103451618",
+            "date_last_used": "0",
+            "guid": "bbb71ec6-cd38-43f3-8480-21733df7bf94",
+            "id": "56",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436357103451206",
+            "date_last_used": "0",
+            "guid": "7e84860f-3030-4b45-af55-b9fea23482c9",
+            "id": "55",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436356535687956",
+            "date_last_used": "0",
+            "guid": "6e78ba01-8047-40a8-9c1c-08822f727fae",
+            "id": "53",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436356535687633",
+            "date_last_used": "0",
+            "guid": "6a1abe08-5915-499f-ac15-e6ec7605218c",
+            "id": "52",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436356535686307",
+            "date_last_used": "0",
+            "guid": "6e4a1c9c-c9c3-42dc-b24b-4d0f7c7271ab",
+            "id": "51",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436356296416267",
+            "date_last_used": "0",
+            "guid": "f2f6b97a-a390-445d-8c09-1836fdcb10f2",
+            "id": "49",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436356296416047",
+            "date_last_used": "0",
+            "guid": "1d743afa-3845-45ad-8c71-1a17da319d76",
+            "id": "48",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436356296415637",
+            "date_last_used": "0",
+            "guid": "9c2f4c7f-4b39-41bd-85eb-44873d03e650",
+            "id": "47",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436355120445831",
+            "date_last_used": "0",
+            "guid": "b2b9d9d4-351b-40f8-bf65-e59bb120a225",
+            "id": "45",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436355120445598",
+            "date_last_used": "0",
+            "guid": "c7a920ca-01aa-4102-a8fb-ee49a8244fcf",
+            "id": "44",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436355120445195",
+            "date_last_used": "0",
+            "guid": "2ec7face-7f8d-430c-a544-aeca83537df7",
+            "id": "43",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436352793673983",
+            "date_last_used": "0",
+            "guid": "098089ef-7a40-4d3d-815c-7092ce484655",
+            "id": "41",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436352793673621",
+            "date_last_used": "0",
+            "guid": "11346a00-f14d-4221-a504-a47f6def018e",
+            "id": "40",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436352793672057",
+            "date_last_used": "0",
+            "guid": "f74567e5-dec5-4b28-b0c2-4e9f710bba22",
+            "id": "39",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436301868418922",
+            "date_last_used": "0",
+            "guid": "f368724f-7884-4fbf-adba-5cb3a76f362d",
+            "id": "37",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436301868418596",
+            "date_last_used": "0",
+            "guid": "4b8d6743-4b55-4dec-a8ea-fd344a152326",
+            "id": "36",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436301868417210",
+            "date_last_used": "0",
+            "guid": "a9b68926-2777-4a28-8973-0da37199904c",
+            "id": "35",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436299156328892",
+            "date_last_used": "0",
+            "guid": "71a2690b-31b5-4cb9-845f-133660f0246a",
+            "id": "33",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436299156328583",
+            "date_last_used": "0",
+            "guid": "39fdf839-7778-4646-8c0f-fb132bbf7b6e",
+            "id": "32",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436299156327677",
+            "date_last_used": "0",
+            "guid": "21eee0ef-619d-4246-9ade-4115f9cb3a76",
+            "id": "31",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436298866557515",
+            "date_last_used": "0",
+            "guid": "1e26e623-3f92-457a-aab2-bf4cb5d6d315",
+            "id": "29",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436298866557212",
+            "date_last_used": "0",
+            "guid": "f4cd1f98-8e12-468a-af0b-a5c27c72c526",
+            "id": "28",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436298866556508",
+            "date_last_used": "0",
+            "guid": "d31159c3-7b04-42f2-8329-2c8e84314800",
+            "id": "27",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436297262494045",
+            "date_last_used": "0",
+            "guid": "20c34a72-38d3-4430-9768-3132776a5100",
+            "id": "25",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436297262493799",
+            "date_last_used": "0",
+            "guid": "76482d62-2f54-4177-a39f-9bbbe04b4fe6",
+            "id": "24",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436297262493340",
+            "date_last_used": "0",
+            "guid": "72b14a94-d561-4c4d-b387-e0a909ac9198",
+            "id": "23",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436296178353526",
+            "date_last_used": "0",
+            "guid": "b288da82-f178-40db-9688-a38a0be2c68e",
+            "id": "21",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436296178353213",
+            "date_last_used": "0",
+            "guid": "0cec2d1f-cc76-48d8-b1d1-27bd38c35122",
+            "id": "20",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436296178350947",
+            "date_last_used": "0",
+            "guid": "46d168c3-29bb-4497-bf8e-e7a096327e72",
+            "id": "19",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436133335938979",
+            "date_last_used": "0",
+            "guid": "9a02622d-801a-46fc-b29d-1e42e65b7fa8",
+            "id": "17",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436133335938726",
+            "date_last_used": "0",
+            "guid": "abc143cb-dfd4-4cb4-95e0-320b686694c6",
+            "id": "16",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436133335938188",
+            "date_last_used": "0",
+            "guid": "2b4c4320-f84f-48d4-ac48-2a3ea16c6100",
+            "id": "15",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436131513116522",
+            "date_last_used": "0",
+            "guid": "8e66fe78-2f50-4461-9c51-590fae4b0185",
+            "id": "13",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436131513116150",
+            "date_last_used": "0",
+            "guid": "8d15a035-8d06-40a1-8a77-a7d32501a579",
+            "id": "12",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436131513111919",
+            "date_last_used": "0",
+            "guid": "fb6ab92c-bdcd-4562-9d54-ad3e7f10a05a",
+            "id": "11",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436024159863408",
+            "date_last_used": "0",
+            "guid": "f067ae08-a294-4d08-87d5-ccefa1fe72c0",
+            "id": "9",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436024159863152",
+            "date_last_used": "0",
+            "guid": "83b24238-4c14-4325-a5b9-df5e00b01909",
+            "id": "8",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436024159861070",
+            "date_last_used": "0",
+            "guid": "0eccf992-47af-467e-8b65-f3ea2f9eebdc",
+            "id": "7",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436645401732347",
+            "date_last_used": "0",
+            "guid": "0ff9f288-e5b6-4d6f-8406-99257c30f474",
+            "id": "86",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436645401732139",
+            "date_last_used": "0",
+            "guid": "cb0de0be-27c2-41bb-95af-a6842620521d",
+            "id": "85",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436645401731520",
+            "date_last_used": "0",
+            "guid": "d9d6f85e-18be-4e31-840f-c89b03111686",
+            "id": "84",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436645193641516",
+            "date_last_used": "0",
+            "guid": "cb7c4ad5-2bfc-4ddd-bd82-2d022685173c",
+            "id": "82",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436645193641283",
+            "date_last_used": "0",
+            "guid": "5aa04ea6-8200-4d41-bc9a-7641d604bb7d",
+            "id": "81",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436645193640807",
+            "date_last_used": "0",
+            "guid": "a10df0bd-969a-4624-9b44-017d725adb60",
+            "id": "80",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13437768812614888",
+            "date_last_used": "0",
+            "guid": "755c381e-b6b0-474b-9e8d-a52c4715107a",
+            "id": "100",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13437768812614570",
+            "date_last_used": "0",
+            "guid": "b8c91034-0825-453a-bc4b-164c42ad1d32",
+            "id": "99",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13437768812613546",
+            "date_last_used": "0",
+            "guid": "c53e742e-ba6d-4406-85a2-78013008b59b",
+            "id": "98",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13437764979552423",
+            "date_last_used": "0",
+            "guid": "b4704e90-4b73-41a7-a7a5-935030a36782",
+            "id": "96",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13437764979552058",
+            "date_last_used": "0",
+            "guid": "615f046e-c9da-40d0-a7c5-c3eaebca95ec",
+            "id": "95",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13437764979550078",
+            "date_last_used": "0",
+            "guid": "989c6c80-f501-486e-b22f-091e13c686e8",
+            "id": "94",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13436653649211064",
+            "date_last_used": "0",
+            "guid": "fb5ad83e-b941-4825-ba1e-484f7df4d415",
+            "id": "91",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13436653649210509",
+            "date_last_used": "0",
+            "guid": "a7f78d52-7fba-4a77-aa4c-838b1a6f6e32",
+            "id": "90",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=232&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13436653649207469",
+            "date_last_used": "0",
+            "guid": "0bf17341-837d-4464-8879-3e1abcf0003a",
+            "id": "89",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         } ],
+         "date_added": "13436024159443336",
+         "date_last_used": "0",
+         "date_modified": "13437768816190329",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13436024159443336",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13436024159443336",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
